@@ -46,6 +46,31 @@ Data investigation specialist extracting insights from complex datasets. Masters
 
 **Use when:** Analyzing datasets, discovering data patterns, performing statistical analysis, mining for insights, or investigating data anomalies.
 
+### [**paper-analyzer**](paper-analyzer.md) - Academic paper analysis and specification extraction
+Paper analysis specialist decomposing academic publications into structured implementation specifications. Masters architecture extraction, mathematical formulation parsing, hyperparameter identification, and reproducibility assessment. Transforms papers into actionable specifications.
+
+**Use when:** Analyzing research papers, extracting model architectures, understanding mathematical formulations, assessing reproducibility, or preparing specifications for implementation.
+
+### [**paper-implementer**](paper-implementer.md) - Paper-to-code implementation specialist
+Research engineering specialist translating paper specifications into working code. Masters architecture implementation, equation-to-code translation, training pipeline construction, and paper-faithful reproduction. Builds complete experiment codebases from paper analyses.
+
+**Use when:** Implementing paper architectures, translating equations to code, building training pipelines from paper specs, creating experiment configurations, or setting up reproducible codebases.
+
+### [**reproduction-validator**](reproduction-validator.md) - Research reproduction verification specialist
+Reproduction validation specialist verifying implementation fidelity against paper-reported results. Masters metric comparison, statistical significance testing, ablation study execution, and discrepancy diagnosis. Produces rigorous validation reports.
+
+**Use when:** Verifying paper reproduction accuracy, running ablation studies, diagnosing metric discrepancies, performing statistical validation, or preparing formal reproduction reports.
+
+### [**lecture-planner**](lecture-planner.md) - Academic lecture and course design specialist
+Instructional design specialist creating effective lecture structures for technical content. Masters learning objective formulation with Bloom's taxonomy, topic sequencing, cognitive load management, and assessment design. Produces detailed lecture blueprints.
+
+**Use when:** Designing lecture structures, formulating learning objectives, sequencing technical topics, planning assessments, or creating multi-session course modules.
+
+### [**slide-composer**](slide-composer.md) - Academic slide deck content creator
+Presentation composition specialist transforming lecture blueprints into formatted slide decks. Masters LaTeX Beamer, Marp, and reveal.js formats with mathematical typesetting, code integration, diagram specification, and speaker notes. Delivers publication-quality presentations.
+
+**Use when:** Creating slide decks from lecture plans, typesetting mathematical presentations, formatting code-heavy tutorials, generating speaker notes, or producing companion handouts.
+
 ## Quick Selection Guide
 
 | If you need to... | Use this subagent |
@@ -56,6 +81,11 @@ Data investigation specialist extracting insights from complex datasets. Masters
 | Analyze competitors | **competitive-analyst** |
 | Understand markets | **market-researcher** |
 | Analyze data patterns | **data-researcher** |
+| Analyze a research paper | **paper-analyzer** |
+| Implement a paper in code | **paper-implementer** |
+| Verify paper reproduction | **reproduction-validator** |
+| Design a lecture structure | **lecture-planner** |
+| Create slide deck content | **slide-composer** |
 
 ## Common Research Patterns
 
@@ -82,6 +112,16 @@ Data investigation specialist extracting insights from complex datasets. Masters
 - **market-researcher** for market context
 - **search-specialist** for information discovery
 - **trend-analyst** for industry evolution
+
+**Paper-to-Implementation Pipeline:**
+- **paper-analyzer** for structured paper analysis
+- **paper-implementer** for faithful code implementation
+- **reproduction-validator** for result verification and ablation
+
+**Lecture Material Creation:**
+- **lecture-planner** for pedagogical structure design
+- **slide-composer** for slide deck content generation
+- **paper-analyzer** for research paper content extraction (cross-workflow)
 
 ## Getting Started
 

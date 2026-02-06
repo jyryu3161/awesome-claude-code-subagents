@@ -18,7 +18,7 @@
   <img alt="VoltAgent" src="https://cdn.voltagent.dev/website/logo/logo-2-svg.svg" height="20" />
 </a> 
 
-![Subagent Count](https://img.shields.io/badge/subagents-126+-blue?style=flat-square)
+![Subagent Count](https://img.shields.io/badge/subagents-131+-blue?style=flat-square)
 [![Last Update](https://img.shields.io/github/last-commit/VoltAgent/awesome-claude-code-subagents?label=Last%20update&style=flat-square)](https://github.com/VoltAgent/awesome-claude-code-subagents)
 [![Discord](https://img.shields.io/discord/1361559153780195478.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://s.voltagent.dev/discord)
 [![GitHub forks](https://img.shields.io/github/forks/VoltAgent/awesome-claude-code-subagents?style=social)](https://github.com/VoltAgent/awesome-claude-code-subagents/network/members)
@@ -271,12 +271,17 @@ Agent coordination and meta-programming.
 
 Research, search, and analysis specialists.
 
+- [**competitive-analyst**](categories/10-research-analysis/competitive-analyst.md) - Competitive intelligence specialist
+- [**data-researcher**](categories/10-research-analysis/data-researcher.md) - Data discovery and analysis expert
+- [**lecture-planner**](categories/10-research-analysis/lecture-planner.md) - Academic lecture and course design specialist
+- [**market-researcher**](categories/10-research-analysis/market-researcher.md) - Market analysis and consumer insights
+- [**paper-analyzer**](categories/10-research-analysis/paper-analyzer.md) - Academic paper analysis and specification extraction
+- [**paper-implementer**](categories/10-research-analysis/paper-implementer.md) - Paper-to-code implementation specialist
+- [**reproduction-validator**](categories/10-research-analysis/reproduction-validator.md) - Research reproduction verification specialist
 - [**research-analyst**](categories/10-research-analysis/research-analyst.md) - Comprehensive research specialist
 - [**search-specialist**](categories/10-research-analysis/search-specialist.md) - Advanced information retrieval expert
+- [**slide-composer**](categories/10-research-analysis/slide-composer.md) - Academic slide deck content creator
 - [**trend-analyst**](categories/10-research-analysis/trend-analyst.md) - Emerging trends and forecasting expert
-- [**competitive-analyst**](categories/10-research-analysis/competitive-analyst.md) - Competitive intelligence specialist
-- [**market-researcher**](categories/10-research-analysis/market-researcher.md) - Market analysis and consumer insights
-- [**data-researcher**](categories/10-research-analysis/data-researcher.md) - Data discovery and analysis expert
 
 ## 🤖 Understanding Subagents
 
